@@ -1,0 +1,57 @@
+.list{
+	margin: 1% 1%;
+}
+.list li{
+float: left;
+width: 30%;
+padding: 0 3% 0 0;
+}
+.box{
+	margin: 2%;
+	padding: 1%;
+	border: 2px ridge green;
+}
+.horodateur{
+display: block;
+float: left;
+width: 20%;
+}
+.prenom{
+float: left;
+width: 20%;
+}
+.nom{
+float: left;
+width: 20%;
+}
+.age{
+float: left;
+width: 20%;
+}
+.adresse{
+float: left;
+width: 20%;
+}
+.email{
+float: left;
+width: 20%;
+}
+.numero{
+float: left;
+width: 20%;
+}
+.normal{
+float: left;
+width: 20%;
+}
+.color_one{
+	float: left;
+	background: white;
+}
+.color_two{
+	float: left;
+	background: #CCC;
+}
+.clear{
+	clear: both;
+}
