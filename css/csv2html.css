@@ -45,9 +45,11 @@ float: left;
 width: 20%;
 }
 .color_one{
+float: left;
 background: white;
 }
 .color_two{
+float: left;
 background: #CCC;
 }
 .clear{
